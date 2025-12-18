@@ -662,6 +662,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5509977836046847324, guid: c57c87b6bd5711c4cb1d8656f1a4b2c4, type: 3}
+      propertyPath: near clip plane
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 6497782226646554296, guid: c57c87b6bd5711c4cb1d8656f1a4b2c4, type: 3}
       propertyPath: m_Name
       value: PlayerBase
